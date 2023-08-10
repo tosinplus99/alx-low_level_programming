@@ -112,4 +112,3 @@ void get_prod(char *prod, char *mult, int digit, int zeroes)
 	}
 	
 for(;mult_len > = 0; mult_len--, mult--, prod--)
-	
